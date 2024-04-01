@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="250" height="250" src="https://github.com/Susana-Bergamo/teste-automacao.practice-form.DemoQA/blob/main/automacao.png">
+  </p>
+
 # Automação de Testes - Preenchimento de Formulário
 
 Este projeto visa automatizar os testes para um formulário de registro de estudantes no site DemoQA, utilizando as tecnologias Java, Cucumber, Selenium WebDriver.
