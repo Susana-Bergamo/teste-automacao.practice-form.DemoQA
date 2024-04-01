@@ -1,0 +1,8 @@
+#diretório de saida do maven
+/target/
+
+# arquivos de configuração do Eclipse
+.classpath
+.project
+.gitattributes
+.settings/
