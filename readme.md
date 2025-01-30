@@ -51,4 +51,3 @@ O projeto está em constante desenvolvimento e pode ser adaptado para atender à
 ## Considerações Finais:
 O presente projeto demonstra a automação de testes para um formulário de registro de estudantes, utilizando as melhores práticas de desenvolvimento com Java, Cucumber, Selenium WebDriver e POO. 
 O projeto oferece um ponto de partida para automatizar testes de interfaces web de forma eficiente e modular.
-Este projeto partiu de um desafio da [E2E Coders](https://ead.e2etreinamentos.com.br/), no qual foi um oportunidade para demonstrar minhas habilidades.
